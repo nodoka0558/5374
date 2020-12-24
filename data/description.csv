@@ -1,5 +1,7 @@
 abel,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
+燃やすごみ,,,img/moyasanai02.svg,#733b96
+プラスチック容器包装,,,img/shigen02.svg,#77ae1f
+かみごみ,,,img/moyasu02.svg,#ea3b13
+カン,,,img/bin02.svg,#2dc7aa
+びん,,,img/bin02.svg,#2dc7aa
 あきびん,,,img/bin02.svg,#2dc7aa
